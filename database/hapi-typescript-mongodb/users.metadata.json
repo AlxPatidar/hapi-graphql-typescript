@@ -1,0 +1,1 @@
+{"options":{},"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_","ns":"hapi-typescript-mongodb.users"},{"v":{"$numberInt":"2"},"unique":true,"key":{"email":{"$numberInt":"1"}},"name":"email_1","ns":"hapi-typescript-mongodb.users","background":true}],"uuid":"4790c226e83e49ac8b61431f09b59b58"}
