@@ -36,7 +36,7 @@
     "@hapi/good-console": "^8.1.2",
     "@hapi/good-squeeze": "^5.2.1",
     "@hapi/hapi": "18.4.0",
-    "apollo-server-hapi": "2.9.9",
+    "apollo-server-hapi": "2.14.2",
     "bcryptjs": "2.4.3",
     "bluebird": "^3.7.1",
     "confidence": "^4.0.2",
